@@ -7,6 +7,7 @@
 3
 
  
+<<<<<<< HEAD
 
 4
 
@@ -155,3 +156,7 @@ never wanted to be an artist: P xD
 40
 
   next editor pls in malboge! thx ;)
+=======
+R spread on ReDis   
+D spread on Docker-API 
+>>>>>>> a744135408d8d832daeb5b5361b0e3f4842bbb39
